@@ -3,7 +3,7 @@ name: Ejecutar E
 on:
   workflow_dispatch:
   schedule:
-     - cron: '0 3,5,7 * * *' #asd
+     - cron: '0 3,5,7 * * *' #asdf
 
 jobs:
   execute-script:
